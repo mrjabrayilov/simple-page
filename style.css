@@ -1,0 +1,41 @@
+#main {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#additional {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+#other {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.text {
+    color: black;
+    text-align: center;
+    font-size: 1.2em;
+
+}
+
+img {
+    width: 200px;
+}
+
+#footer {
+    font-weight: bold;
+    text-align: center;
+}
+
+#table {
+    text-align: center;
+    border: 3px solid black;
+    
+}
